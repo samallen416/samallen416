@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samallen416
+- 👋 Hi, I’m Sam Allen
 - 👀 I’m interested in ... becoming a cloud engineer, I've got a long way to go but I'm excited to learn!
-- 🌱 I’m currently learning ... Git how to understand it and how to use it to my benefit
+- 🌱 I’m currently learning ... Git, how to understand it and how to use it to my benefit.
 - 💞️ I’m looking to collaborate on ... nothing yet but watch this space!
 - 📫 How to reach me ...https://samallen416.wixsite.com/cloud-journey
 - 😄 Pronouns: ... He/Him
